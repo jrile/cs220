@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/jrile/!svn/ver/210/Project/src/types
+END
+CharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jrile/!svn/ver/210/Project/src/types/CharType.java
+END
+AbstractType.java
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/jrile/!svn/ver/210/Project/src/types/AbstractType.java
+END
+DateType.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jrile/!svn/ver/210/Project/src/types/DateType.java
+END
+IntegerType.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jrile/!svn/ver/210/Project/src/types/IntegerType.java
+END
+RealType.java
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/jrile/!svn/ver/210/Project/src/types/RealType.java
+END
+VarcharType.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jrile/!svn/ver/210/Project/src/types/VarcharType.java
+END
+BooleanType.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/jrile/!svn/ver/210/Project/src/types/BooleanType.java
+END

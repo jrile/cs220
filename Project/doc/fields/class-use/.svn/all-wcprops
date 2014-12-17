@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/jrile/!svn/ver/91/Project/doc/fields/class-use
+END
+AbstractField.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/jrile/!svn/ver/91/Project/doc/fields/class-use/AbstractField.html
+END
+CharField.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jrile/!svn/ver/91/Project/doc/fields/class-use/CharField.html
+END
+BooleanField.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jrile/!svn/ver/91/Project/doc/fields/class-use/BooleanField.html
+END
+FieldFactory.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jrile/!svn/ver/81/Project/doc/fields/class-use/FieldFactory.html
+END
+VarcharField.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jrile/!svn/ver/91/Project/doc/fields/class-use/VarcharField.html
+END
+DateField.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jrile/!svn/ver/91/Project/doc/fields/class-use/DateField.html
+END
+IntegerField.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/jrile/!svn/ver/91/Project/doc/fields/class-use/IntegerField.html
+END
+RealField.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/jrile/!svn/ver/91/Project/doc/fields/class-use/RealField.html
+END
